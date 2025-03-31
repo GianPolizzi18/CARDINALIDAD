@@ -1,2 +1,4 @@
 # Cadinalidad 
-Trabajos Practicos Base de Datos
+Cardinalidad 1-N
+Cardinalidad N-N
+Cardinalidad TODO
