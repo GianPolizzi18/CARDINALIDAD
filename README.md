@@ -1,2 +1,2 @@
-# Cadinalidad 1-N
+# Cadinalidad 
 Trabajos Practicos Base de Datos
